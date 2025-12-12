@@ -1,5 +1,5 @@
 ---
-title: Role -Host
+title: Role - Host
 layout: default
 nav_order: 2
 parent: Role Descriptions
