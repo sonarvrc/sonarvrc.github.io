@@ -17,11 +17,11 @@ Our main requirements for moderators are:
 - Your schedule is predictable enough to sign up a couple days ahead of events.
 
 ### Process
-After creating a ticket, the commander of moderation will schedule a voice call or VRC meetup with you to to ask and answer any questions about the role and your suitability. If that goes well, and the rest of staff also has no objections, you will be given the **@Staff** and **@Event Moderation** roles in the Discord server, and are invited to the SONAR Staff VRC group. Your first event you will be shadowing an existing moderator (likely the commander) to see what a usual shift looks like and answer any remaining questions. And if that goes well: welcome to the team!
+After creating a ticket, the commander of moderation (see [Staff list](https://sonarvrc.github.io/docs/roleDescriptions/0_staffList.html)) will schedule a voice call or VRC meetup with you to to ask and answer any questions about the role and your suitability. If that goes well, and the rest of staff also has no objections, you will be given the **@Staff** and **@Event Moderation** roles in the Discord server, and are invited to the SONAR Staff VRC group. Your first event you will be shadowing an existing moderator (likely the commander) to see what a usual shift looks like and answer any remaining questions. And if that goes well: welcome to the team!
 
 ## How to
 ### Singing up
-For every event a call for moderation sign-ups will be released by the moderation manager for that event (usually the commander of moderation) in **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** at least several days before the event. Each event is split into slots that usually correspond to full hours and/or DJ slots, to sign up for one just react an emoji to the corresponding message (pick a unique one for clarity). You can sign up to as many slots as you can do, the moderation manager will try to limit the amount of slots you'll actually be assigned, also taking other factors into account (eg double roles)[1]. The moderation schedule is announced one or more days before the event. If you are assigned a shift you are expected to attend it unless you notify the moderation manager in advance.
+For every event a call for moderation sign-ups will be released by the moderation manager for that event (usually the commander of moderation) in **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** at least several days before the event. Each event is split into slots that usually correspond to full hours and/or DJ slots, to sign up for one just react an emoji to the corresponding message (pick a unique one for clarity). You can sign up to all the slots you can be available for, the moderation manager will try to limit the amount of slots you'll actually be assigned, also taking other factors into account (eg double roles)[1]. The moderation schedule is announced one or more days before the event. If you are assigned a shift you are expected to attend it unless you notify the moderation manager in advance.
 
 [1]: In general the target is 2 moderators per slot, and max 2 hours per moderator (preferably consecutive). Staff with double roles (such as moderation and media) will never be assigned alone. The event host will only be assigned moderation duty if absolutely necessary. DJs cannot moderate their own DJ slot (you know who you are).
 
@@ -32,7 +32,7 @@ If you can't be in the instance on time please inform the other staff in the **[
 ### During the shift
 The key responsibilities for a moderator during a normal event are the following: 
 - Inform people that are wearing avatars with a "very poor" performance rating;
-- Enforce the group rules (see TODO:RULES);
+- Enforce the group rules (see [Rules](https://sonarvrc.github.io/docs/about/rules.html) and TODO:RULES_MODERATION);
 - Answer questions from visitors or redirect them to the appropriate person;
 - Make sure everyone is having a good time!
 
