@@ -10,7 +10,7 @@ Welcome to the SONAR Staff list. This page lists all the teams within SONAR and 
 If you want to apply for any of these teams please create a ticket in **[#tickets](https://discord.com/channels/1144683882336231524/1163422864637169754)** in the Discord server.
 
 ## Commanders
-**@magictwin** - Organisation \
+**@magictwin** - Media, Organisation \
 **@Llamahat** - Worlds \
 **@dahottah** / Monty! - Events \
 **@vlily** - Events \
@@ -40,8 +40,7 @@ If you want to apply for any of these teams please create a ticket in **[#ticket
 **@wildly.mia** / Mia \
 **@howlllll** / howl \
 **@auddiedax** / Dax \
-**@pixeldoesstuff** \
-**@kindaglitchy** / Glitchy
+**@pixeldoesstuff**
 
 ## Media
 **@vlily** \
@@ -57,7 +56,10 @@ IF WE HAD ANY
 -->
 
 ## Development
-**@Arkui** \
-**@subdefense**
+**@Arkui**
+
+## On break
+**@subdefense** - Events \
+**@kindaglitchy** / Glitchy - Moderator
 
 Last update: 21-12-2025
