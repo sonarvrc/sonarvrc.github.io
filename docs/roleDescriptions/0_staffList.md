@@ -9,6 +9,10 @@ Welcome to the SONAR Staff list. This page lists all the teams within SONAR and 
 
 If you want to apply for any of these teams please create a ticket in **[#tickets](https://discord.com/channels/1144683882336231524/1163422864637169754)** in the Discord server.
 
+## Open positions
+### Media team - Graphics designer
+We could use some help with making posters, icons, and other graphical assets!
+
 ## Commanders
 **@magictwin** - Media, Organisation \
 **@Llamahat** - Worlds \
