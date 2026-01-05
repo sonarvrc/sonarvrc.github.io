@@ -10,7 +10,7 @@ Centrifuge is our "theatre in the round" style venue, designed to benifit from t
 
 ## Venue Details
 | Feature          | Details                                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|: ---------------- |: ------------------------------------------------------------------------------------------------------------------- |
 | Capacity         | 80                                                                                                                  |
 | Audio            | - Distance based Stereo<br> - Constant Volume                                                                       |
 | Screens          | 3 Screens on the walls                                                                                              |
