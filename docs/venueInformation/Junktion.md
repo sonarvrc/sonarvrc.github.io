@@ -9,19 +9,21 @@ SONAR's newest venue, Junktion, is a small underground rail crossing of two subw
 <img src="../../assets/images/SONARVenues/Junktion.jpg" alt="Junktion" width="75%"/>
 
 ## Venue Details
-| Feature          | Details                                                                |
-| ---------------- | ---------------------------------------------------------------------- |
-| Capacity         | 80                                                                     |
-| Audio            | - Spatialised Stereo<br> - Distance based Stereo<br> - Constant Volume |
-| Screens          | One screen located behind the DJ                                       |
-| Dancer Platforms | Dance platforms on either side of the DJ                               |
-| Dynamic Lighting | - Arealit Screen<br> - VRSLGI Spotlight Movers                         |
-| Special Features | None (Maybe there are some fun gobo patterns `¯\_(ツ)_/¯`)             |
-| DMX Lighting     | YES (See DMX Patch Below)                                              |
+
+| Feature          | Details                                                          |
+| :--------------- | :--------------------------------------------------------------- |
+| Capacity         | 80                                                               |
+| Audio            | Spatialised Stereo<br> Distance based Stereo<br> Constant Volume |
+| Screens          | One screen located behind the DJ                                 |
+| Dancer Platforms | Dance platforms on either side of the DJ                         |
+| Dynamic Lighting | Arealit Screen<br> VRSLGI Spotlight Movers                       |
+| Special Features | None (Maybe there are some fun gobo patterns `¯\_(ツ)_/¯`)       |
+| DMX Lighting     | YES (See DMX Patch Below)                                        |
 
 ## VRSL DMX Patch
+
 | Fixture ID | DMX Address | Fixture Type     | Location         |
-| ---------- | ----------- | ---------------- | ---------------- |
+| :--------- | :---------- | :--------------- | :--------------- |
 | 1001       | 1.1         | 13 Channel Mover | Stage Far Left   |
 | 1002       | 1.14        | 13 Channel Mover | Stage Near Left  |
 | 1003       | 1.27        | 13 Channel Mover | Stage DJ Left    |

@@ -9,19 +9,21 @@ SONAR's Kicklab is our resident venue for all things heavy and hard-hitting. Des
 <img src="../../assets/images/SONARVenues/Kicklab.png" alt="KickLab" width="75%"/>
 
 ## Venue Details
-| Feature          | Details                                                                                               |
-|: ---------------- |: ----------------------------------------------------------------------------------------------------- |
-| Capacity         | 80                                                                                                    |
-| Audio            | - Spatialised Stereo<br> - Distance based Stereo<br> - Constant Volume                                |
-| Screens          | 3 screens on the roof                                                                                 |
-| Dancer Platforms | Dance platforms on either side of the DJ Booth                                                        |
-| Dynamic Lighting | - Arealit Screen<br> - VRSLGI Spotlight Movers, Blinders & LEDS<br> - OwenTheProgrammer Latrix Lasers |
-| Special Features | Heavy genres focused                                                                                  |
-| DMX Lighting     | YES (See DMX Patch Below)                                                                             |
+
+| Feature          | Details                                                                                                            |
+| :--------------- | :----------------------------------------------------------------------------------------------------------------- |
+| Capacity         | 80                                                                                                                 |
+| Audio            | Spatialised Stereo<br> Distance based Stereo<br> Constant Volume                                                   |
+| Screens          | 3x screens on the roof                                                                                             |
+| Dancer Platforms | Dance platforms on either side of the DJ Booth                                                                     |
+| Dynamic Lighting | Arealit Screen<br> VRSLGI Spotlight Movers<br> VRSLGI Blinders<br> VRSLGI LEDS<br> OwenTheProgrammer Latrix Lasers |
+| Special Features | Heavy genres focused                                                                                               |
+| DMX Lighting     | YES (See DMX Patch Below)                                                                                          |
 
 ## VRSL DMX Patch
+
 | Fixture ID | DMX Address | Fixture Type | Location      |
-| ---------- | ----------- | ------------ | ------------- |
+| :--------- | :---------- | :----------- | :------------ |
 | 1001       | 1.1         | 13Ch Mover   | Ceiling Truss |
 | 1002       | 1.14        | 13Ch Mover   | Ceiling Truss |
 | 1003       | 1.27        | 13Ch Mover   | Ceiling Truss |

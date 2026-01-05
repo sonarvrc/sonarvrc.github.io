@@ -9,10 +9,13 @@ Underpass is SONAR's primary world and home to many of our events. Typically use
 <img src="../../assets/images/SONARVenues/Underpass.png" alt="Underpass" width="75%"/>
 
 ## Venue Details
-- Capacity: 80
-- Audio: Spatialised, Distance-based Stereo, Constant Volume
-- Dynamic Lighting: Arealit Ceiling and Floor Lights
-- DMX Lighting: None
-- Visuals: One Screen Behind DJ Booth
-- Special Features: Manual Color Picker for Floor and Wall Lights
 
+| Feature          | Details                                                   |
+| :--------------- | :-------------------------------------------------------- |
+| Capacity         | 80                                                        |
+| Audio            | Spatialized<br> Distance-based Stereo<br> Constant Volume |
+| Screens          | 1x Screen Behind DJ Booth                                 |
+| Dancer Platforms | None                                                      |
+| Dynamic Lighting | Arealit Ceiling Lights<br> Arealit Floor Light Tubes      |
+| Special Features | Manual Color Picker for Floor and Wall Lights             |
+| DMX Lighting     | None                                                      |
