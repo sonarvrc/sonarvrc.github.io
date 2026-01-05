@@ -10,7 +10,7 @@ Centrifuge is our "theatre in the round" style venue, designed to benifit from t
 
 ## Venue Details
 | Feature          | Details                                                                                                             |
-|: ---------------- |: ------------------------------------------------------------------------------------------------------------------- |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------ |
 | Capacity         | 80                                                                                                                  |
 | Audio            | - Distance based Stereo<br> - Constant Volume                                                                       |
 | Screens          | 3 Screens on the walls                                                                                              |
@@ -18,3 +18,10 @@ Centrifuge is our "theatre in the round" style venue, designed to benifit from t
 | Dynamic Lighting | - Arealit Wall Audiolink Lighting<br> - Arealit Floor Audiolink Lighting<br> - Noriben Spot Audiolink StageLighting |
 | Special Features | UV switcher -> Split/Mirror Screens                                                                                 |
 | DMX Lighting     | None                                                                                                                |
+
+| head1        | head two          | three |
+| :----------- | :---------------- | :---- |
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
