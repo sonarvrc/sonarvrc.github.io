@@ -9,6 +9,7 @@ Centrifuge is our "theatre in the round" style venue, designed to benifit from t
 <img src="../../assets/images/SONARVenues/Centrifuge.jpg" alt="Centrifuge" width="75%"/>
 
 ## Venue Details
+
 | Feature          | Details                                                                                                   |
 | :--------------- | :-------------------------------------------------------------------------------------------------------- |
 | Capacity         | 80                                                                                                        |
