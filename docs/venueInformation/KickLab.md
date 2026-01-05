@@ -10,7 +10,7 @@ SONAR's Kicklab is our resident venue for all things heavy and hard-hitting. Des
 
 ## Venue Details
 | Feature          | Details                                                                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------------- |
+|: ---------------- |: ----------------------------------------------------------------------------------------------------- |
 | Capacity         | 80                                                                                                    |
 | Audio            | - Spatialised Stereo<br> - Distance based Stereo<br> - Constant Volume                                |
 | Screens          | 3 screens on the roof                                                                                 |
