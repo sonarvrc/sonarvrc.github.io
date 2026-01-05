@@ -9,15 +9,15 @@ Centrifuge is our "theatre in the round" style venue, designed to benifit from t
 <img src="../../assets/images/SONARVenues/Centrifuge.jpg" alt="Centrifuge" width="75%"/>
 
 ## Venue Details
-| Feature          | Details                                                                                                             |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------ |
-| Capacity         | 80                                                                                                                  |
-| Audio            | - Distance based Stereo<br> - Constant Volume                                                                       |
-| Screens          | 3 Screens on the walls                                                                                              |
-| Dancer Platforms | 4 Surrounding the main area                                                                                         |
-| Dynamic Lighting | - Arealit Wall Audiolink Lighting<br> - Arealit Floor Audiolink Lighting<br> - Noriben Spot Audiolink StageLighting |
-| Special Features | UV switcher -> Split/Mirror Screens                                                                                 |
-| DMX Lighting     | None                                                                                                                |
+| Feature          | Details                                                                                                   |
+| :--------------- | :-------------------------------------------------------------------------------------------------------- |
+| Capacity         | 80                                                                                                        |
+| Audio            | Distance based Stereo / Constant Volume                                                                   |
+| Screens          | 3 Screens on the walls                                                                                    |
+| Dancer Platforms | 4 Surrounding the main area                                                                               |
+| Dynamic Lighting | Arealit Wall Audiolink Lighting / Arealit Floor Audiolink Lighting / Noriben Spot Audiolink StageLighting |
+| Special Features | UV switcher (Split/Mirror)                                                                                |
+| DMX Lighting     | None                                                                                                      |
 
 | head1        | head two          | three |
 | :----------- | :---------------- | :---- |
