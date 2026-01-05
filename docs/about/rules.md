@@ -20,10 +20,10 @@ Welcome to SONAR XR! To ensure a safe and enjoyable experience for all participa
 > By joining the Discord server and our events you agree that you are at least 18 years old, and ready to prove it should staff have any doubts.
 
 5. NSFW Content
-> Despite being an 18+ community, SONAR does not allow explicitly NSFW content; which includes, but is not limited to: nudity, the depiction of sexual acts, strong violence, and any other content that could be deemed disturbing. This also extends to avatars during our events.
+> Despite being an 18+ community, SONAR does not allow Explicitly NSFW content; which includes, but is not limited to: nudity, the depiction of sexual acts, strong violence, and any other content that could be deemed disturbing. This also extends to avatars during our events.
 
 6. Advertising
-> Do not advertise your music, sets, or commissions outside of the **[#self-promo](https://discord.com/channels/1144683882336231524/1154781701831139349)** Discord channel. And, very certainly, ***DO NOT*** advertise directly to people via DMs.
+> Do not advertise your music, sets, or commissions outside of the **[#self-promo](https://discord.com/channels/1144683882336231524/1154781701831139349)** channel. And, very certainly, ***DO NOT*** advertise directly to people via DMs.
 
 7. Staff and Reporting
 > Staff, especially **@Commander**, reserves the rights to moderate in measures that they deem appropriate, if there are any given inflictions with the above set of rules. Problems and misbehavior can be reported by opening a ticket in **[#tickets](https://discord.com/channels/1144683882336231524/1163422864637169754)**.
