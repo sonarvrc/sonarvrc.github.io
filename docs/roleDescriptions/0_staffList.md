@@ -15,36 +15,27 @@ We could use some help with making posters, icons, and other graphical assets!
 
 ## Commanders
 **@magictwin** - Media, Organisation \
-**@Llamahat** - Worlds \
+Llamahat - Worlds \
 **@dahottah** / Monty! - Events \
 **@vlily** - Events \
 **@Mitsync** - Moderation \
 **@Arkui** - Development
+
+## Organisation
+**@magictwin** \
+**@Mitsync** \
+Llamahat
+
+## World developers
+Llamahat - Underpass and many others \
+**@magictwin** - Substation \
+**@dahottah** / Monty! - Threshold
 
 ## Event hosts
 **@dahottah** / Monty! \
 **@vlily** \
 **@pixeldoesstuff** \
 **@aussiedax** / Dax
-
-## World developers
-**@Llamahat** - Underpass and many others \
-**@magictwin** - Substation \
-**@dahottah** / Monty! - Threshold
-
-## Moderators
-**@Mitsync** \
-**@cath20021** / Barror1 \
-**@magictwin** \
-**@Llamahat** \
-**@Riksaah** \
-**@vniv73** / V N I V Ꞁ Ǝ \
-**@silverfoxx6969** / SilverFoxx \
-**@shrookywaff** / Shrooky \
-**@wildly.mia** / Mia \
-**@howlllll** / howl \
-**@auddiedax** / Dax \
-**@pixeldoesstuff**
 
 ## Media
 **@vlily** \
@@ -53,17 +44,31 @@ We could use some help with making posters, icons, and other graphical assets!
 **@Silverplushie** \
 **@pixeldoesstuff** \
 **@magictwin**
-
 <!---
 This is where we'd put our graphics designers
 IF WE HAD ANY
 -->
 
+## Moderators
+**@Mitsync** \
+**@cath20021** / Barror1 \
+**@magictwin** \
+Llamahat \
+**@Riksaah** \
+**@vniv73** / V N I V Ꞁ Ǝ \
+**@silverfoxx6969** / SilverFoxx \
+**@shrookywaff** / Shrooky \
+**@wildly.mia** / Mia \
+howl \
+**@auddiedax** / Dax \
+**@pixeldoesstuff**
+
 ## Development
-**@Arkui**
+**@Arkui** \
+**@magictwin**
 
 ## On break
 **@subdefense** - Events \
 **@kindaglitchy** / Glitchy - Moderator
 
-Last update: 21-12-2025
+Last update: 06-01-2026
