@@ -4,7 +4,7 @@ layout: default
 parent: Venue Information
 ---
 # Centrifuge
-Centrifuge is our "theatre in the round" style venue, designed to benifit from the centre staging. It is ideal for smaller DJ sets due to the intimate atmosphere created by the circular design. It also features 4 dance platforms surrounding the entire main area, allowing for the dancers to get close to the Audience.
+Centrifuge is our "theatre in the round" style venue, designed to benefit from the centre staging. It is ideal for smaller DJ sets due to the intimate atmosphere created by the circular design. It also features 4 dance platforms surrounding the entire main area, allowing for the dancers to get close to the Audience.
 
 <img src="../../assets/images/SONARVenues/Centrifuge.jpg" alt="Centrifuge" width="75%"/>
 
